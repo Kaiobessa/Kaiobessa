@@ -1,6 +1,6 @@
 ### Hi there! 😁
 
-My name is Kaio Bessa from Brazil. Systems analysis and development student and this is my repository to share some works and projects.
+My name is Kaio Bessa. I'm from Brazil. Systems analysis and development student and this is my repository to share some works and projects.
 
 <div align="center">
   <a href="https://github.com/Kaiobessa">
